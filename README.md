@@ -38,6 +38,8 @@ shadow-batch-processor
 - Image ICC handling matches ImageMagick / FFmpeg limits documented in Shadow Convert
 - Destructive mode is discouraged and confirmed
 
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
